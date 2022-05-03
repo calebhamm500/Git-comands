@@ -1,0 +1,3 @@
+git init: inicializa el repositorio.
+git status: que archivos se tienen o se estan trabajando.
+git add: agregar a area de trabajo
