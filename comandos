@@ -1,3 +1,7 @@
 git init: inicializa el repositorio.
 git status: que archivos se tienen o se estan trabajando.
 git add: agregar a area de trabajo
+git checkout -- nombredelarchivo: descarta los cambios echos en el archivos
+git diff index nombredelarchivo: ver las diferencias hechas en los archivos
+git commit -m 'mensaje de commit':insertar y guardas los cambios
+
