@@ -4,4 +4,8 @@ git add: agregar a area de trabajo
 git checkout -- nombredelarchivo: descarta los cambios echos en el archivos
 git diff index nombredelarchivo: ver las diferencias hechas en los archivos
 git commit -m 'mensaje de commit':insertar y guardas los cambios
-
+git branch: mostrar branches.
+git branch 'nombredelnuevo branch': crear un nuevo branch.
+git checkout 'nombre del branch': posicionarse en el branch en especifico.
+git add .: agregar todos los archivos.
+git log: nos muestra los commits que hemos hecho.
